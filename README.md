@@ -10,7 +10,7 @@ The simulation showcases how complex, intelligent, and goal-oriented behaviors c
 
 <!-- <img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/9090eb9d-a712-4c50-9773-02ea58e9b4bf" /> -->
 
-*(You can replace this with a screenshot of your simulation running)*
+
 
 ## Simulation Workflow: From Chaos to Order
 
