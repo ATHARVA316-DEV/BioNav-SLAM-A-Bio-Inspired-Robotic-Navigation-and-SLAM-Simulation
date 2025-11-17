@@ -5,8 +5,10 @@ A Python-based simulation of an insect-inspired agent using a Central Complex mo
 This project is a real-time Python simulation of an autonomous agent that uses a bio-inspired navigation system modeled after an insect's brain, specifically the Central Complex (CX). The agent's goal is to navigate an unknown 2D environment containing obstacles to discover points of interest ("food"). As it explores, it builds an internal map and, once enough information is gathered, calculates the most efficient routes to visit all known locations. This process demonstrates a fundamental form of Simultaneous Localization and Mapping (SLAM), where an agent builds a map of an unknown environment while simultaneously keeping track of its own location within it.
 
 The simulation showcases how complex, intelligent, and goal-oriented behaviors can emerge from a set of relatively simple rules and a simplified neural network.
+<img width="1389" height="936" alt="image" src="https://github.com/user-attachments/assets/b9057db1-1d26-4af7-bb2f-6e2d1b14e5b8" />
 
-<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/9090eb9d-a712-4c50-9773-02ea58e9b4bf" />
+
+<!-- <img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/9090eb9d-a712-4c50-9773-02ea58e9b4bf" /> -->
 
 *(You can replace this with a screenshot of your simulation running)*
 
