@@ -1,5 +1,7 @@
 # BioNav-SLAM: A Bio-Inspired Robotic Navigation and SLAM Simulation
 
+![Visitors](https://komarev.com/ghpvc/?username=ATHARVA316-DEV&color=blue)
+
 A Python-based simulation of an insect-inspired agent using a Central Complex model for navigation, exploration, and Simultaneous Localization and Mapping (SLAM).
 
 This project is a real-time Python simulation of an autonomous agent that uses a bio-inspired navigation system modeled after an insect's brain, specifically the Central Complex (CX). The agent's goal is to navigate an unknown 2D environment containing obstacles to discover points of interest ("food"). As it explores, it builds an internal map and, once enough information is gathered, calculates the most efficient routes to visit all known locations. This process demonstrates a fundamental form of Simultaneous Localization and Mapping (SLAM), where an agent builds a map of an unknown environment while simultaneously keeping track of its own location within it.
